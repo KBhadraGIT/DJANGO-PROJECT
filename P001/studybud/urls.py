@@ -16,7 +16,16 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.http import HttpResponse
+
+#Creating a function to print "Welcome to django" instead of displaying admin page.
+
+def home(request):
+    """
+    This will display 'welcome to django' instead of admin page"""
+    return HttpResponse('Welcome to django')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', home),
 ]
