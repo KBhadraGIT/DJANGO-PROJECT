@@ -7,10 +7,10 @@ def home(request):
     """
     This will display 'welcome to django' instead of admin page
     """
-    return HttpResponse('Welcome to django')
+    return render(request, 'home.html')
 
 def room(request):
     """
     At certain route i.e. 'room' it will display ROOM
     """
-    return HttpResponse('ROOM')
+    return render(request, 'room.html')
