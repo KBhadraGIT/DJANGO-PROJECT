@@ -48,4 +48,4 @@ Rerouting to empty route:
 
 Rerouting to 'room/' route:
 
-[SS007](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS007.jpg)
+![SS007](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS007.jpg)
