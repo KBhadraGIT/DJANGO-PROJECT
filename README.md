@@ -56,7 +56,7 @@ To check if the created application is working fine:
 
 ```
 python manage.py runserver
-
+```
 In the created project we following file:
 
 |Files in studybud project in P001|Functionalities|
