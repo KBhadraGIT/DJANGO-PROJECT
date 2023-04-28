@@ -24,3 +24,15 @@ Rerouting to 'room/' route:
 
 ![SS003](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS003.jpg)
 
+STEP-5: Reroting using templates file.
+
+Display:
+
+Rerouting to empty route:
+
+![S004](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS004.jpg)
+
+Rerouting to 'room/' route:
+
+![S005](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS005.jpg)
+
