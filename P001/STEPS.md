@@ -12,5 +12,15 @@ Display:
 
 STEP-3: Created app 'base' containing different routes.
 
+STEP-4: Configuring the routing of the apps with project studybud.
 
+Display:
+
+Rerouting to empty route:
+
+![SS002](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS002.jpg)
+
+Rerouting to 'room/' route:
+
+![SS003](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS003.jpg)
 
