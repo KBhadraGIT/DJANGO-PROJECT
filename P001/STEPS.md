@@ -24,7 +24,7 @@ Rerouting to 'room/' route:
 
 ![SS003](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS003.jpg)
 
-STEP-5: Reroting using templates file.
+STEP-5: Rerouting using templates file.
 
 Display:
 
@@ -34,5 +34,18 @@ Rerouting to empty route:
 
 Rerouting to 'room/' route:
 
-![S005](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS005.jpg)
+![SS005](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS005.jpg)
 
+STEP-5: Inheriting templates:
+
+Writing a navigational bar template and inheriting it in the empty route and room route.
+
+Display: 
+
+Rerouting to empty route:
+
+![SS006]
+
+Rerouting to 'room/' route:
+
+[SS007]
