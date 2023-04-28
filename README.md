@@ -50,3 +50,9 @@ For new project we created a new folder inside it that is 'P001'.
 ```
 django-admin startproject studybud .
 ```
+**Note: Here we have changed the directory to P001**
+
+To check if the created application is working fine:
+
+```
+python manage.py runserver
