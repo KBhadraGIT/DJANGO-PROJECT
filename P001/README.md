@@ -1,4 +1,4 @@
-# __init__.py:
+# P001/studybud/__init__.py:
 
 The __init__.py file is a special Python file that is executed when a package is imported. It is used to define the package's behavior when it is imported and to execute any initialization code that the package requires.
 
@@ -12,7 +12,7 @@ Here are some common functions of the __init__.py file:
 
 In summary, the __init__.py file is used to define a package's behavior when it is imported and to execute any initialization code that the package requires. It is an essential component of any Python package and allows for efficient and organized package management.
 
-# asgi.py:
+# P001/studybud/asgi.py:
 
 The **asgi.py** file is a Python script used by Django projects to provide an **ASGI (Asynchronous Server Gateway Interface)** entry point for the project. **ASGI** is a standard interface between web servers and web applications or frameworks that allows the application or framework to run asynchronously, which can improve performance and scalability.
 
@@ -33,7 +33,7 @@ The **asgi.py** file imports the **get_asgi_application()** function from **djan
 
 In summary, the **asgi.py** file is a Python script that provides an ASGI entry point for a Django project, allowing the application to be run asynchronously and potentially improving performance and scalability.
 
-# settings.py:
+# P001/studybud/settings.py:
 
 The **settings.py** file is a Python module used by Django projects to store all of the project's settings, including database configuration, installed apps, middleware, templates, static files, internationalization settings, logging settings, and much more.
 
@@ -54,7 +54,7 @@ STATIC_URL and STATICFILES_DIRS | Settings related to serving static files, such
 
 In summary, the settings.py file is a central configuration file for Django projects that contains a wide range of settings related to the project's functionality, behavior, and appearance.
 
-# urls.py:
+# P001/studybud/urls.py:
 
 In a Django project, the **urls.py** file is used to define the URL patterns that the project will handle. The **urls.py** file is typically located in the project's main directory, and it maps URLs to views within the project.
 
@@ -80,7 +80,7 @@ The **path()** function is a utility function provided by Django that simplifies
 
 In summary, the **urls.py** file in a Django project defines the URL patterns that the project will handle and maps those patterns to view functions that provide the appropriate responses.
 
-# wsgi.py:
+# P001/studybud/wsgi.py:
 
 The **wsgi.py** file is a Python script used by Django projects to provide a **WSGI (Web Server Gateway Interface)** entry point for the project. WSGI is a standard interface between web servers and web applications or frameworks, which allows the application or framework to run on any web server that supports WSGI.
 
@@ -102,7 +102,7 @@ The **wsgi.py** file imports the **get_wsgi_application()** function from **djan
 
 In summary, the **wsgi.py** file is a Python script that provides a WSGI entry point for a Django project, allowing the application to be run on any web server that supports the WSGI interface.
 
-# db.sqlite3:
+# P001/db.sqlite3:
 
 **db.sqlite3** is the default database file that is created when you create a new Django project using the **django-admin startproject** command. This file is used to store all the data that your Django project needs, including information about users, content, sessions, and other application-specific data.
 
@@ -114,7 +114,7 @@ By default, the **db.sqlite3** file is located in the project's root directory, 
 
 Note that while **db.sqlite3** is a simple and convenient database solution for small projects, it may not be suitable for larger, more complex projects with high concurrency or scalability requirements. In those cases, you may need to consider using a more robust database engine, such as MySQL or PostgreSQL, and configuring Django to use that database instead.
 
-# manage.py:
+# P001/manage.py:
 
 **manage.py** is a command-line utility provided by Django that is used to interact with various aspects of a Django project. It is located in the root directory of your Django project and provides a number of useful commands for managing your project, such as creating database tables, running development servers, and running tests.
 
