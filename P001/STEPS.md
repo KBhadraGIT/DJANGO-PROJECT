@@ -8,6 +8,6 @@ STEP-2: Created a function to show 'Welcome to django' instaed of django's admin
 
 Display:
 
-![SS001](/base/images/SS001.png)
+![SS001](/base/images/SS001.jpg)
 
 
