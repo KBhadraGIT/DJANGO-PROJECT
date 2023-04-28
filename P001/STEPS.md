@@ -12,6 +12,5 @@ Display:
 
 STEP-3: Created app 'base' containing different routes.
 
-STEP-4: Configuring the routing of the apps with project studybud.
 
 
