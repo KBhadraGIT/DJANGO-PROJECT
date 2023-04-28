@@ -44,8 +44,8 @@ Display:
 
 Rerouting to empty route:
 
-![SS006]
+![SS006](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS006.jpg)
 
 Rerouting to 'room/' route:
 
-[SS007]
+[SS007](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS007.jpg)
