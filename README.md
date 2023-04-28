@@ -43,3 +43,10 @@ These are all command-line tool in a Django project.
 | **startproject** | Creates a new Django project. |
 | **test** | Runs the project's tests. |
 | **testserver** | Runs a development server with the project's test database. |
+
+# **Creating new project: P001**
+For new project we created a new folder inside it that is 'P001'.
+
+```
+django-admin startproject studybud .
+```
