@@ -61,10 +61,10 @@ In the created project we following file:
 
 |Files in studybud project in P001|Functionalities|
 |-----------------------------------|-----------------|
-|P001/studybud/__init__.py|The __init__.py file is a special Python file that is executed when a package is imported. It is used to define the package's behavior when it is imported and to execute any initialization code that the package requires.|
-| P001/studybud/asgi.py |  |
-| P001/studybud/settings.py |  |
-| P001/studybud/urls.py |  |
-| P001/studybud/wsgi.py | This stands for web server gateway interface |
-| P001/db.sqlite3 |  |
-| P001/manage.py |  |
+|__init__.py|The __init__.py file is a special Python file that is executed when a package is imported. It is used to define the package's behavior when it is imported and to execute any initialization code that the package requires.|
+| asgi.py |  |
+| settings.py |  |
+| urls.py |  |
+| wsgi.py | the wsgi.py file is a Python script that provides a WSGI entry point for a Django project, allowing the application to be run on any web server that supports the WSGI interface. |
+| db.sqlite3 |  |
+| manage.py |  |
