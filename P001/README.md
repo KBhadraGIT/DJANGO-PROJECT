@@ -10,7 +10,7 @@ Here are some common functions of the __init__.py file:
 | **Initialization Code** | The __init__.py file can also contain initialization code that the package requires to function properly. This can include setting up environment variables, initializing database connections, or any other code that needs to be run before the package can be used. |
 | **Import Statements** | The __init__.py file can also contain import statements that load modules or subpackages that the package depends on. This allows the package to be self-contained and self-sufficient, without requiring the user to manually import dependencies. |
 
-In summary, the __init__.py file is used to define a package's behavior when it is imported and to execute any initialization code that the package requires. It is an essential component of any Python package and allows for efficient and organized package management.
+In summary, the **__init__.py** file is used to define a package's behavior when it is imported and to execute any initialization code that the package requires. It is an essential component of any Python package and allows for efficient and organized package management.
 
 # P001/studybud/asgi.py:
 
