@@ -59,19 +59,9 @@ python manage.py runserver
 
 In the created project we following file:
 
-| Files in studybud project in P001 | Functionalities |
+|Files in studybud project in P001|Functionalities|
 |-----------------------------------|-----------------|
-| P001/studybud/__init__.py | The __init__.py file is a special Python file that is executed when a package is imported. It is used to define the package's behavior when it is imported and to execute any initialization code that the package requires.
-Here are some common functions of the __init__.py file:
--  Package Initialization: The __init__.py file is used to define the behavior of a package when it is imported. It can define what modules should be loaded, what variables and functions should be exposed to the package namespace, and what subpackages should be imported.
-
--  Namespace Packages: In Python 3.3 and later versions, the __init__.py file is not required for namespace packages. Instead, a namespace package is defined as a directory containing a __init__.py file or a set of directories containing packages or other namespace packages.
-
--  Initialization Code: The __init__.py file can also contain initialization code that the package requires to function properly. This can include setting up environment variables, initializing database connections, or any other code that needs to be run before the package can be used.
-
--  Import Statements: The __init__.py file can also contain import statements that load modules or subpackages that the package depends on. This allows the package to be self-contained and self-sufficient, without requiring the user to manually import dependencies.
-
-In summary, the __init__.py file is used to define a package's behavior when it is imported and to execute any initialization code that the package requires. It is an essential component of any Python package and allows for efficient and organized package management. |
+|P001/studybud/__init__.py|The __init__.py file is a special Python file that is executed when a package is imported. It is used to define the package's behavior when it is imported and to execute any initialization code that the package requires.|
 | P001/studybud/asgi.py |  |
 | P001/studybud/settings.py |  |
 | P001/studybud/urls.py |  |
