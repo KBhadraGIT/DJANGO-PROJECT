@@ -62,9 +62,9 @@ In the created project we following file:
 |Files in studybud project in P001|Functionalities|
 |-----------------------------------|-----------------|
 |__init__.py|The __init__.py file is a special Python file that is executed when a package is imported. It is used to define the package's behavior when it is imported and to execute any initialization code that the package requires.|
-| asgi.py |  |
-| settings.py |  |
-| urls.py |  |
-| wsgi.py | the wsgi.py file is a Python script that provides a WSGI entry point for a Django project, allowing the application to be run on any web server that supports the WSGI interface. |
-| db.sqlite3 |  |
-| manage.py |  |
+| asgi.py | In summary, the **asgi.py** file is a Python script that provides an ASGI entry point for a Django project, allowing the application to be run asynchronously and potentially improving performance and scalability. |
+| settings.py | In summary, the settings.py file is a central configuration file for Django projects that contains a wide range of settings related to the project's functionality, behavior, and appearance. |
+| urls.py | In summary, the **urls.py** file in a Django project defines the URL patterns that the project will handle and maps those patterns to view functions that provide the appropriate responses. |
+| wsgi.py | In summary, the **wsgi.py** file is a Python script that provides a WSGI entry point for a Django project, allowing the application to be run on any web server that supports the WSGI interface. |
+| db.sqlite3 | By default, the db.sqlite3 file is located in the project's root directory, but you can specify a different database file or location by modifying the DATABASES setting in your project's settings.py file. |
+| manage.py | In summary, **manage.py** is a powerful command-line utility that provides a number of useful commands for managing your Django project, and it can also be used to create custom management commands to suit your project's specific needs. |
