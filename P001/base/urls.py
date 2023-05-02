@@ -7,7 +7,7 @@ urlpatterns = [
          views.home, 
          name = "home"),
 
-    path('room/',
+    path('room/<str:pk>/',
          views.room,
          name= "room"),     
 ]
