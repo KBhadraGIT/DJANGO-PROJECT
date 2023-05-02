@@ -53,4 +53,14 @@ Rerouting to 'room/' route:
 STEP-6: Using for loop
 
 Rerouting to empty route:
+
 ![SS008](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS008.jpg)
+
+=========================================================================================================================
+=========================================================================================================================
+
+# ADVANCED APPLICATION:
+
+STEP-1: Inside the application create a directory template/name_of_the_application 
+
+Since, the application name is base thus the directory will be P001/base/templates/base
