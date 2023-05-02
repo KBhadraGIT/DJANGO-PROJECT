@@ -49,3 +49,8 @@ Rerouting to empty route:
 Rerouting to 'room/' route:
 
 ![SS007](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS007.jpg)
+
+STEP-6: Using for loop
+
+Rerouting to empty route:
+![SS008]()

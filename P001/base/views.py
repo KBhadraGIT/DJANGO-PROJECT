@@ -7,10 +7,19 @@ def home(request):
     """
     This will display 'welcome to django' instead of admin page
     """
-    return render(request, 'home.html')
+    return render(request, 'home.html', {'rooms' : rooms})
 
 def room(request):
     """
     At certain route i.e. 'room' it will display ROOM
     """
-    return render(request, 'room.html')
+    return render(request, 'room.html', )
+
+rooms = [
+    {'id': 1,
+     'name': 'Let\'s learn python!'},
+    {'id': 2,
+     'name': 'Design with me'},
+    {'id': 3,
+     'name':'Frontend developers'},
+]
