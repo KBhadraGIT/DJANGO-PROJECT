@@ -63,4 +63,30 @@ Rerouting to empty route:
 
 STEP-1: Inside the application create a directory template/name_of_the_application 
 
-Since, the application name is base thus the directory will be P001/base/templates/base
+Since, the application name is base thus the directory will be: **P001/base/templates/base**
+
+STEP-2: Here there is room dictionary inside views. Using the key: name we will access the room page. As shown if I click the name then I will be getting redirected to room page:
+
+Input: Routing to home
+
+DISPLAY: 
+
+![SS009](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS009.jpg)
+
+Input: Clicking 'Let's learn python!'
+
+DISPLAY: 
+
+![SS010](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS010.jpg)
+
+Input: Clicking 'Design with me'
+
+DISPLAY: 
+
+![SS011](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS011.jpg)
+
+Input: Clicking 'Frontend developers'
+
+DISPLAY: 
+
+![SS012](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS012.jpg)
