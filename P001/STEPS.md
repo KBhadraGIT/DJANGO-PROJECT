@@ -90,3 +90,9 @@ Input: Clicking 'Frontend developers'
 DISPLAY: 
 
 ![SS012](https://github.com/KBhadraGIT/DJANGO-PROJECT/blob/main/P001/base/images/SS012.jpg)
+
+STEP-3: We can route the same thing using url function.
+
+We have changed the **href** that is **href="{% url 'room' room.id %}"**
+
+But this works the same as above.
